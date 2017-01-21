@@ -33,4 +33,5 @@ Jupyter notebook
 [2.1. 비용(Cost)](/02-Tensorflow/01-Cost)  
 [2.2. 다중 선형 회귀](/02-Tensorflow/02-Multivariable_Linear_Regression)  
 [2.3. 로지스틱 회귀](/02-Tensorflow/03-Logistic_Classification)  
-[2.4. 다항 분류(Multinomial Classification)](/02-Tensorflow/04-Multinomial_Classification)  
+[2.4. 다항 분류(Multinomial Classification)](/02-Tensorflow/04-Multinomial_Classification)
+[2.5. 기계학습 팁](/02-Tensorflow/05-Tip&Tricks) 
