@@ -8,6 +8,8 @@ Github에서 Jupyter notebook viewer를 지원하기 때문에 웹에서 바로 
 
 해당 저장소의 실습내용은 [여기](https://nyanye.com)서도 확인하실 수 있습니다.
 
+자료에 오/탈자, 누락된 부분이 있을 수 있습니다. 잘못된 내용이 있다면 Pull Request나 issue를 올려주시면 감사하겠습니다 :)
+
 ## 개발환경
 
 OS : Windows 10 64bit Python 3.5+  
