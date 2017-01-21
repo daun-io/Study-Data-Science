@@ -2,7 +2,7 @@
 
 ## 데이터 과학 실습
 
-Data science from scratch, Coursera, udacity, Awesome list, 모두를 위한 머신러닝 등의 자료를 보며 수식, 설명, 코드를 곁들여 Jupyter notebook으로 작성한 저의 데이터 과학 실습 저장소입니다.
+Data science from scratch, Coursera, udacity, Awesome list, [모두를 위한 머신러닝](https://hunkim.github.io/ml/) 등의 자료를 보며 수식, 설명, 코드를 곁들여 Jupyter notebook으로 작성한 데이터 과학 실습 저장소입니다.
 
 Github에서 Jupyter notebook viewer를 지원하기 때문에 웹에서 바로 내용을 볼 수 있습니다.
 
