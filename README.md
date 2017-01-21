@@ -29,8 +29,8 @@ Jupyter notebook
 [1.8. 기계학습](/01-Data-Science-From-Scratch/08-기계학습(Machine_Learning))
 
 [2. Tensorflow 기계학습 실습](/02-Tensorflow)  
-[2.0. Hello World 부터 선형회귀까지](/02-Tensorflow/00-Hello_Tensor&Linear_Regression)
-[2.1. 비용(Cost)](/02-Tensorflow/01-Cost)
-[2.2. 다중 선형 회귀](/02-Tensorflow/02-Multivariable_Linear_Regression)
-[2.3. 로지스틱 회귀](/02-Tensorflow/03-Logistic_Classification)
-[2.4. 다항 분류(Multinomial Classification)](/02-Tensorflow/04-Multinomial_Classification)
+[2.0. Hello World 부터 선형회귀까지](/02-Tensorflow/00-Hello_Tensor&Linear_Regression)  
+[2.1. 비용(Cost)](/02-Tensorflow/01-Cost)  
+[2.2. 다중 선형 회귀](/02-Tensorflow/02-Multivariable_Linear_Regression)  
+[2.3. 로지스틱 회귀](/02-Tensorflow/03-Logistic_Classification)  
+[2.4. 다항 분류(Multinomial Classification)](/02-Tensorflow/04-Multinomial_Classification)  
