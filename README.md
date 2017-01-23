@@ -19,7 +19,7 @@ Jupyter notebook
 ## 목록
 
 [#. Public Datasets](/00-Datasets)  
-[1. 밑바닥부터 시작하는 데이터 과학](/01-Data-Science-From-Scratch)  
+[1. 밑바닥부터 시작하는 데이터 과학(Data Science from Scratch)](/01-Data-Science-From-Scratch)  
 [1.0. 원본소스코드(Original Source Code)](/01-Data-Science-From-Scratch/00-원본소스코드(source_code))  
 [1.1. 들어가기(Intro)](/01-Data-Science-From-Scratch/01-들어가기(Introduction))  
 [1.2. 시각화(Visualization)](/01-Data-Science-From-Scratch/02-시각화(Visualization))  
@@ -38,3 +38,7 @@ Jupyter notebook
 [2.4. 다항 분류(Multinomial Classification)](/02-Tensorflow/04-Multinomial_Classification)  
 [2.5. 기계학습 팁(Tips for Machine Learning)](/02-Tensorflow/05-Tip&Tricks)  
 [2.6. 심층학습(Deep Learning)](/02-Tensorflow/06-Deep_Learning)
+
+## Update
+
+MNIST Challenge, CNN, RNN도 [2.6. 심층학습(Deep Learning)](/02-Tensorflow/06-Deep_Learning)에 포함.
