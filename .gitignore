@@ -1,0 +1,5 @@
+*.swp
+MNIST_data
+.ipynb_checkpoints
+log
+
